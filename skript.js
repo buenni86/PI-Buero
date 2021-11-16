@@ -18,7 +18,7 @@ WA.room.onEnterZone(zoneTutorial, () => {
         {
             label: "OK",
             callback: (popup => {
-                WA.nav.openCoWebSite(urlTutorial);
+                WA.nav.openTab(urlTutorial);
                 isCoWebSiteOpened = true;
                 closePopUp();
             })
