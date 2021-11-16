@@ -1008,6 +1008,30 @@
                  "width":98.2604166666666,
                  "x":817.869791666667,
                  "y":51.0182291666667
+                }, 
+                {
+                 "height":11.296875,
+                 "id":31,
+                 "name":"Ausgang",
+                 "properties":[
+                        {
+                         "name":"font-family",
+                         "type":"string",
+                         "value":"\"Press Start 2P\""
+                        }],
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Press Start 2P",
+                     "pixelsize":8,
+                     "text":"Ausgang",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":59.59375,
+                 "x":581.203125,
+                 "y":49.3515625
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1058,7 +1082,7 @@
          "y":0
         }],
  "nextlayerid":87,
- "nextobjectid":31,
+ "nextobjectid":32,
  "orientation":"orthogonal",
  "properties":[
         {
