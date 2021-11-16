@@ -1038,9 +1038,29 @@
  "orientation":"orthogonal",
  "properties":[
         {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"Credits: DB Systel \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"DB WorkAdventure - Process Intelligence B\u00fcro Map"
+        }, 
+        {
+         "name":"mapImage",
+         "type":"string",
+         "value":"map.png"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Process Intelligence B\u00fcro"
+        }, 
+        {
          "name":"script",
          "type":"string",
-         "value":"script.js"
+         "value":"skript.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
